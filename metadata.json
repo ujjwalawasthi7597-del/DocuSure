@@ -1,0 +1,6 @@
+{
+  "name": "DocuSure – AI Document Verification & Compliance Platform",
+  "description": "Enterprise AI document management, verification, and compliance platform with automated extraction, risk and expiry detection, and multi-role reviewer workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
